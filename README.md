@@ -2,6 +2,7 @@ Things left to implement:-
 
 - [x] Implement Self-attention mechanism
 - [x] Implement Forward Pass
+- [ ] Add a Softmax layer
 - [ ] Implement Weight Update
-- [ ] Implement Multi-Head attention mechanism
+- [x] Implement Multi-Head attention mechanism
 - [ ] Implement Support for Batches
